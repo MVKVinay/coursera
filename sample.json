@@ -1,0 +1,6 @@
+const a={
+  p1:"vinay",
+  p2:"vikas",
+  p3:"dad",
+  p4:"mom"
+};
